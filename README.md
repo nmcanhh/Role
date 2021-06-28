@@ -38,7 +38,9 @@ Mình gọi **Role** là **vai trò** vì User sẽ được chia vai trò trên
 
 ### Tham khảo
 **Giao diện: SB Admin 2 (HTML/CSS/JAVASCRIPT)**
+
 `https://startbootstrap.com/template/sb-admin`
+
 **Kiến thức: Laravel Role & Permission Tutorial (Hướng dẫn phân quyền trong Laravel) của anh [Nguyễn Văn Đức](https://www.facebook.com/ducnv)**
 
 **Video hướng dẫn tại:**
